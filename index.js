@@ -4,3 +4,8 @@ const add = (a, b) => {
   return a + b;
 };
 console.log(myfun(4, 7));
+
+const sub = (a, b) => {
+  return a - b;
+};
+console.log(myfun(6, 3));
