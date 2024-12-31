@@ -14,3 +14,8 @@ const mul = (a, b) => {
   return a * b;
 };
 console.log(myfun(5, 3));
+
+const division = (a, b) => {
+  return a / b;
+};
+console.log(myfun(10, 17));
