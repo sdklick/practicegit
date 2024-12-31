@@ -9,3 +9,8 @@ const sub = (a, b) => {
   return a - b;
 };
 console.log(myfun(6, 3));
+
+const mul = (a, b) => {
+  return a * b;
+};
+console.log(myfun(5, 3));
